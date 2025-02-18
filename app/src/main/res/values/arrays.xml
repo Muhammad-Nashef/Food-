@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="basic_ingredients">
+        <item>Flour</item>
+        <item>Sugar</item>
+        <item>Salt</item>
+        <item>Milk</item>
+        <item>Eggs</item>
+        <item>Butter</item>
+        <item>Baking_Powder</item>
+        <item>Baking_Soda</item>
+        <item>Vanilla_Extract</item>
+        <item>Chocolate_Chips</item>
+        <item>Vegetable_Oil</item>
+        <item>Yeast</item>
+        <item>Cinnamon</item>
+        <item>Nutmeg</item>
+        <item>Cocoa_Powder</item>
+        <item>Vanilla_Beans</item>
+        <item>Whole_Wheat_Flour</item>
+        <item>Rice</item>
+        <item>Tomato_Sauce</item>
+        <item>Olive_Oil</item>
+        <item>Chicken</item>
+        <item>Beef</item>
+        <item>Tomato</item>
+        <item>Vinegar</item>
+        <item>Paprika</item>
+        <item>Fish</item>
+        <item>Chicken_breast</item>
+        <item>Frozen_corn</item>
+        <item>Cheese</item>
+        <item>Carrot</item>
+        <item>Honey</item>
+        <item>Lamb</item>
+        <item>Pepper</item>
+        <item>Lemon</item>
+        <item>Shrimps</item>
+        <item>Oregano</item>
+        <item>Potato</item>
+        <item>Pasta</item>
+    </string-array>
+</resources>

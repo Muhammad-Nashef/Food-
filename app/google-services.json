@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382170523664",
+    "project_id": "foodplus-19e77",
+    "storage_bucket": "foodplus-19e77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382170523664:android:5d4470cf077c11ba01c295",
+        "android_client_info": {
+          "package_name": "com.example.foodplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAejcHgx93eQ97IXaRuLOhpdiGKcX0QiXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
